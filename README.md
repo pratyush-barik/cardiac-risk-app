@@ -20,7 +20,7 @@ The system integrates multiple supervised learning models and combines their out
 
 Access the live application here:
 
-https://cardiac-risk-app.onrender.com/predict
+https://cardiac-risk-app-oy40.onrender.com/
 
 ---
 
